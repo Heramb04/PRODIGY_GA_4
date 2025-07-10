@@ -6,7 +6,7 @@
 
 ## 🚀 Demo
 
-🎯 **Try the app here**: [Pix2Pix Facade Generator on Hugging Face](https://huggingface.co/spaces/<your-username>/<space-name>)
+🎯 **Try the app here**: [Pix2Pix Facade Generator on Hugging Face](https://huggingface.co/spaces/heramb04/Pix2Pix_Shuffler)
 
 Upload a label map or click **🎲 Pick Random & Generate** to preview results from the training set.
 

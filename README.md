@@ -87,7 +87,7 @@ python app.py
 ---
 
 ## 👨‍💻 Author
-Heramb Josh
+Heramb Joshi
 
 ## 📜 License
 This project is MIT licensed. CMP Facade Dataset is used under fair academic usage.
